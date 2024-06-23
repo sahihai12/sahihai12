@@ -22,6 +22,9 @@
   <a href="https://codesandbox.io/dashboard/recent?workspace=3d365157-703f-48ba-891b-f702a41befb9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="32" height="20" alt="codesandbox logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/Sahil1512t" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="32" height="20" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
