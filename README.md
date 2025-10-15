@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate MERN stack developer with over 3 years of experience in building dynamic and responsive web applications.</p>
+<p align="left">Welcome to my GitHub profile! I'm a passionate MERN stack developer with over 4+ years of experience in building dynamic and responsive web applications.</p>
 
 ###
 
